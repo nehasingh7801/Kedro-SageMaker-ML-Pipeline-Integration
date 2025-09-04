@@ -46,8 +46,8 @@
 + Kedro Visualise Pipelines
     ![Kedro Viz](images/Kedro-Viz.jpg)
 
-+ Kedro AWS SageMaker
-    ![Kedro SageMaker](images/Kedro-SageMaker.jpg)
++ Amazon SageMaker Completed
+    ![Amazon SageMaker Completed](images/Amazon-SageMaker-Completed.jpg)
 
 + Amazon SageMaker Detail
     ![Amazon SageMaker Detail](images/AWS-SageMaker-Detail.jpg)
